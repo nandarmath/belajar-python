@@ -1,0 +1,16 @@
+Nama : Risnandar
+Alamat   : Leok II
+Umur  : 35
+ -----------------------------------------
+Nama : Gunawan
+Alamat   : Kalimantan
+Umur  : 26
+ -----------------------------------------
+Nama : Inna Kurnia
+Alamat   : Busak I
+Umur  : 15
+ ----------------------------------------
+Nama : Haris
+Alamat   : Kalimantan
+Umur  : 28
+ ----------------------------------------
